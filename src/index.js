@@ -1,2 +1,3 @@
-js
-some
+module.exports = (a, b) => {
+  return a + b;
+};
